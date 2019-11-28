@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[login funcationality starts]]>
+    </line>
+    <line>
+      <![CDATA[login fincationality ends]]>
+    </line>
+    <line>
+      <![CDATA[Hi Demo User Text validation starts]]>
+    </line>
+    <line>
+      <![CDATA[Booking Tab Text Validation ]]>
+    </line>
+    <line>
+      <![CDATA[Time and date validation starts]]>
+    </line>
+    <line>
+      <![CDATA[Hours matched ]]>
+    </line>
+    <line>
+      <![CDATA[Minutes matched]]>
+    </line>
+    <line>
+      <![CDATA[assertion passed for BookingNo ]]>
+    </line>
+    <line>
+      <![CDATA[assertion passed for BookingDueDate ]]>
+    </line>
+    <line>
+      <![CDATA[assertion passed for BookingStatus ]]>
+    </line>
+  </reporter-output>
+  <suite name="phptravles" duration-ms="47558" started-at="2019-11-28T06:09:26Z" finished-at="2019-11-28T06:10:13Z">
+    <groups>
+    </groups>
+    <test name="Phptest" duration-ms="47558" started-at="2019-11-28T06:09:26Z" finished-at="2019-11-28T06:10:13Z">
+      <class name="com.atmecs.practice1.scripts.PhpTravlesScript">
+        <test-method status="PASS" signature="intitailizeBrowser(org.testng.ITestContext)[pri:0, instance:com.atmecs.practice1.scripts.PhpTravlesScript@239963d8]" name="intitailizeBrowser" is-config="true" duration-ms="15443" started-at="2019-11-28T06:09:26Z" finished-at="2019-11-28T06:09:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@74a195a4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intitailizeBrowser -->
+        <test-method status="PASS" signature="phpTravlesIntegration()[pri:0, instance:com.atmecs.practice1.scripts.PhpTravlesScript@239963d8]" name="phpTravlesIntegration" duration-ms="32077" started-at="2019-11-28T06:09:41Z" finished-at="2019-11-28T06:10:13Z">
+          <reporter-output>
+            <line>
+              <![CDATA[login funcationality starts]]>
+            </line>
+            <line>
+              <![CDATA[login fincationality ends]]>
+            </line>
+            <line>
+              <![CDATA[Hi Demo User Text validation starts]]>
+            </line>
+            <line>
+              <![CDATA[Booking Tab Text Validation ]]>
+            </line>
+            <line>
+              <![CDATA[Time and date validation starts]]>
+            </line>
+            <line>
+              <![CDATA[Hours matched ]]>
+            </line>
+            <line>
+              <![CDATA[Minutes matched]]>
+            </line>
+            <line>
+              <![CDATA[assertion passed for BookingNo ]]>
+            </line>
+            <line>
+              <![CDATA[assertion passed for BookingDueDate ]]>
+            </line>
+            <line>
+              <![CDATA[assertion passed for BookingStatus ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- phpTravlesIntegration -->
+      </class> <!-- com.atmecs.practice1.scripts.PhpTravlesScript -->
+    </test> <!-- Phptest -->
+  </suite> <!-- phptravles -->
+  <suite name="TestNGSuite" duration-ms="0" started-at="2019-11-28T06:10:14Z" finished-at="2019-11-28T06:10:14Z">
+    <groups>
+    </groups>
+  </suite> <!-- TestNGSuite -->
+</testng-results>
